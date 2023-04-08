@@ -7,3 +7,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/T1deHub/Scripts/main/
 ## Current games:
 - Pet Rift
 - Rebirth Champions X
+
+![Screenshot #1](https://i.imgur.com/UaOiplA.png)
