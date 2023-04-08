@@ -8,4 +8,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/T1deHub/Scripts/main/
 - Pet Rift
 - Rebirth Champions X
 
+# Images:
+
 ![Screenshot #1](https://i.imgur.com/eYFh5ip.png)
