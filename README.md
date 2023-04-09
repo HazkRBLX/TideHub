@@ -7,6 +7,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/T1deHub/Scripts/main/
 ## Current games:
 - Pet Rift
 - Rebirth Champions X
+- Tower of Hell
 
 # Images:
 
