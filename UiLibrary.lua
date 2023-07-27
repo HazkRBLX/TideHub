@@ -7,11 +7,10 @@ Original by Sirius
 
 -------------------------------
 Arrays  | Designing + Programming + New Features
-and Rafa =D
 
 ]]
 
-local Release = "Rafa Edition"
+local Release = "Tide Edition"
 local NotificationDuration = 6.5
 local RayfieldFolder = "Rayfield"
 local ConfigurationFolder = RayfieldFolder.."/Configurations"
